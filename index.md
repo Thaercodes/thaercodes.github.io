@@ -89,7 +89,7 @@
     <h2 id="biriani">Biriani</h2>
         
         <ul>
-            <li>Time: 2 hours</li>
+            <li>Time: 1 hour</li>
             <li>Serves: 6 people</li>
         </ul>
         
@@ -138,7 +138,7 @@
 <h2 id="mandi">Mandi</h2>
         
         <ul>
-            <li>Time: 2 hours</li>
+            <li>Time: 1 hour</li>
             <li>Serves: 5 people</li>
         </ul>
         
